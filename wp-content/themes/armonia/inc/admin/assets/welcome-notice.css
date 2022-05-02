@@ -1,0 +1,36 @@
+/*---------------------------
+   Welcome Notice Styling
+----------------------------*/
+.armonia-welcome-notice {
+    font-family: cursive;
+}
+
+.armonia-welcome-notice .notice-content-wrap {
+    display: flex;
+}
+
+.armonia-welcome-notice .notice-highlight {
+    font-weight: 500;
+    font-size: 1.1rem;
+}
+
+.armonia-welcome-notice .notice-content {
+    padding: 0px 20px;
+}
+
+.armonia-welcome-notice .notice-actions {
+    padding-top: 15px;
+}
+
+.armonia-welcome-notice .notice-actions a {
+    padding: 6px 22px;
+}
+
+.armonia-welcome-notice .notice-dismiss-button {
+    text-align: right;
+    padding-bottom: 10px;
+ }
+ 
+ .armonia-welcome-notice .notice-dismiss-button a {
+    color: #ff0000;
+ }
