@@ -1,1 +1,0 @@
-<?php do_action( 'avventura_lite_header_sidebar'); ?>
